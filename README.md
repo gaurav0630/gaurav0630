@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Gaurav Verma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on [developing software](Reccopilot)
+- 🔭 I’m currently working on developing software called "Reccopilot" at Reccopilot
 
 - 🌱 I’m currently learning **.Net and C#**
 
